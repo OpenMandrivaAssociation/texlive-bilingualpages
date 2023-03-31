@@ -1,6 +1,6 @@
 Name:		texlive-bilingualpages
 Version:	59643
-Release:	1
+Release:	2
 Summary:	Typeset two columns in parallel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bilingualpages
