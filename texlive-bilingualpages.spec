@@ -3,7 +3,7 @@ Version:	59643
 Release:	2
 Summary:	Typeset two columns in parallel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bilingualpages
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bilingualpages
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bilingualpages.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bilingualpages.doc.r%{version}.tar.xz
